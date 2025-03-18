@@ -4,3 +4,5 @@ Esta é a versão inicial do arquivo.
 editing intro.txt on main
 
 Creating a new branch for my edits
+
+Pull para nao dar merge
