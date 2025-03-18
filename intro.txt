@@ -1,8 +1,8 @@
 Esta é a versão inicial do arquivo. 
 É ele que você vai editar como exercício do Lab
 
-editing intro.txt
+editing intro.txt on main
 
-modifying feature-branch
+Creating a new branch for my edits
 
-modifying feature-branch 2
+Pull para nao dar merge
